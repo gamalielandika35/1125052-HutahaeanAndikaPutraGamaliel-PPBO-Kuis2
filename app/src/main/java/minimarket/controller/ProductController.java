@@ -59,15 +59,15 @@ public class ProductController {
 
         if (jenis == 1) {
 
-            tambahFrozenFood();
+            tambahMie();
 
         } else if (jenis == 2) {
 
-            tambahMie();
+            tambahBuahBuahan();
 
         } else if (jenis == 3) {
 
-            tambahBuahBuahan();
+            tambahFrozenFood();
 
         } else {
 
