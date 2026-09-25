@@ -92,7 +92,7 @@ public class ProductController {
         System.out.print("Rasa: ");
         String rasa = view.getString();
 
-        System.out.print("Rasa: ");
+        System.out.print("Berat: ");
         double berat = view.getDouble();
 
         Mie ahh = new Mie(
